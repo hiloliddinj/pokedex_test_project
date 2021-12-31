@@ -1,0 +1,41 @@
+name: pokedex_test_project
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  http: ^0.13.4
+  flutter_staggered_grid_view: ^0.4.1
+  cached_network_image: ^3.2.0
+  provider: ^6.0.2
+  shared_preferences: ^2.0.11
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+  flutter_native_splash: ^1.3.2
+
+flutter_native_splash:
+  color: "#3558CD"
+  image: assets/logo.png
+  android: true
+  ios: false
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/vector.png
+    - assets/pokemon.png
+    - assets/logo.png
