@@ -33,4 +33,7 @@ flutter_native_splash: ^1.3.2
    start unit test works.
 3) Very small difference in appBar of main screen and division under it compared to actualy design.
 
-4) The most important: it was very cool - very good orginized project. Shortly I loved it. At least I have finished this project)) Thanks,
+4) This Project was actually in different project. There i had committed many local changes. But because of Android splash screen I have changed very much
+   Android files. So basically before sending I just copied my project new project (This project). So it has only 1-2 commit s
+
+5) The most important: it was very cool - very good orginized project. Shortly I loved it. At least I have finished this project)) Thanks,
